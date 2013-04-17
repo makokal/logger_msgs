@@ -1,0 +1,10 @@
+# Goal of logger action
+string operation	# start | stop
+string filename
+string[] topics
+---
+# Result of logger operation
+string status
+---
+# Feedback information
+int32 lines_written

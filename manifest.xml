@@ -1,0 +1,19 @@
+<package>
+  <description brief="logger_msgs">
+
+     logger_msgs
+
+  </description>
+  <author>Billy Okal</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/logger_msgs</url>
+  <depend package="std_msgs"/>
+  <depend package="actionlib_msgs"/>
+  <depend package="actionlib"/>
+  <depend package="roscpp"/>
+  <depend package="rospy"/>
+
+</package>
+
+
